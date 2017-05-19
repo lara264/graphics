@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=w\ h
+comment0.target=Ball(int,\ int)
+comment1.params=
+comment1.target=java.awt.Color\ randomColor()
+comment10.params=w\ h\ allBalls
+comment10.target=void\ move(int,\ int,\ java.util.ArrayList)
+comment11.params=g
+comment11.target=void\ draw(java.awt.Graphics)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getDiameter()
+comment5.params=x1\ y1\ x2\ y2
+comment5.target=double\ distanceBetweenCenters(int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=void\ reverseX()
+comment7.params=
+comment7.target=void\ reverseY()
+comment8.params=
+comment8.target=boolean\ movingRight()
+comment9.params=
+comment9.target=boolean\ movingDown()
+numComments=12
